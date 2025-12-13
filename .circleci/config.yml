@@ -20,4 +20,4 @@ workflows:
       - build:
           filters:
             branches:
-              only: main
+              only: test-swarm
